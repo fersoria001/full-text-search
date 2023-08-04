@@ -1,6 +1,6 @@
-# Product Search Trie
+# Full text Search Trie
 
-Product Search Trie is a TypeScript project that demonstrates the usage of a trie data structure to efficiently search for products based on their titles and descriptions.
+Full text Search Trie is a TypeScript project that demonstrates the usage of a trie data structure to efficiently search for products based on their titles and descriptions.
 
 ## Table of Contents
 
